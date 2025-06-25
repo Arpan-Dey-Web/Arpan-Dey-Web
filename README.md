@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me<br><br>🔭 I’m currently working on a **Full Stack Parcel Delivery Website**  <br>👯 I’m looking to collaborate on **Frontend Projects**  <br>🤝 I’m looking for help with **learning Backend Development** — I'm currently doing a frontend-focused course where I learned basic backend (CRUD with MongoDB)  <br>🌱 I’m currently learning **JavaScript, React, Tailwind CSS, Node.js, Express.js, MongoDB**  <br>💬 Ask me about anything **Frontend-related** 
 
 ## 🌐 Socials:
