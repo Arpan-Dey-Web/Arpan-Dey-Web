@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Arpan Dey</h1>
-<h3>A passionate frontend developer from India</h3>
+<h3>A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**
 
