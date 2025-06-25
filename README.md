@@ -1,3 +1,6 @@
+
+<img src="Black and White Gradient Personal LinkedIn Banner.png" alt="GitHub Banner" style="width: 100%;" />
+
 <h1>Hi 👋, I'm Arpan Dey</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
 
