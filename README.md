@@ -1,10 +1,10 @@
 
 <img src="github-banner.png" alt="GitHub Banner" style="width: 100%;" />
+<h1>About Me</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
-
 - 🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **Next.js, Tailwind CSS, Node.js, Express.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **Frontend UI Kit for Developers**
 
@@ -15,6 +15,9 @@
 - 📫 How to reach me **arpandey.web@gmail.com**
 
 - ⚡ Fun fact **I think I’m funny — until the compiler disagrees.**
+  
+
+
 
 ## 🌐 Socials:
 
