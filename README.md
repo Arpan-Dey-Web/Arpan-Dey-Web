@@ -1,7 +1,5 @@
 
 <img src="github-banner.png" alt="GitHub Banner" style="width: 100%;" />
-
-<h1>Hi 👋, I'm Arpan Dey</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**
