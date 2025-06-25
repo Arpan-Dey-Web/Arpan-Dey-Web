@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on a **Full Stack Parcel Delivery Website**  <br>👯 I’m looking to collaborate on **Frontend Projects**  <br>🤝 I’m looking for help with **learning Backend Development** — I'm currently doing a frontend-focused course where I learned basic backend (CRUD with MongoDB)  <br>🌱 I’m currently learning **JavaScript, React, Tailwind CSS, Node.js, Express.js, MongoDB**  <br>💬 Ask me about anything **Frontend-related**  <br>⚡ Fun fact: **I’m a very deep coder — when I’m coding, I forget what’s happening around me!**<br>
-
+## 🚀 About Me<br><br>🔭 I’m currently working on a **Full Stack Parcel Delivery Website**  <br>👯 I’m looking to collaborate on **Frontend Projects**  <br>🤝 I’m looking for help with **learning Backend Development** — I'm currently doing a frontend-focused course where I learned basic backend (CRUD with MongoDB)  <br>🌱 I’m currently learning **JavaScript, React, Tailwind CSS, Node.js, Express.js, MongoDB**  <br>💬 Ask me about anything **Frontend-related** 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arpandey5000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpandey.web@gmail.com) 
