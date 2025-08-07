@@ -4,7 +4,7 @@
 <h3>A passionate frontend developer from Bangladesh</h3>
 - 🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**
 
-- 🌱 I’m currently learning **Next.js and MongoDB**
+- 🌱 I’m currently learning **Next.js **
 
 - 👯 I’m looking to collaborate on **Frontend UI Kit for Developers**
 
