@@ -47,9 +47,6 @@
 
 # 📊 GitHub Stats:
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![](https://github-readme-stats.vercel.app/api?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
