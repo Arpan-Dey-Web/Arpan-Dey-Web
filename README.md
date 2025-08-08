@@ -1,29 +1,26 @@
+<div align="center">
 
 <img src="github-banner.png" alt="GitHub Banner" style="width: 100%;" />
+
 <h1>About Me</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
-- 🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**
 
-- 🌱 I’m currently learning **Next.js **
+🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**  
+🌱 I’m currently learning **Next.js**  
+👯 I’m looking to collaborate on **Frontend UI Kit for Developers**  
+💬 Ask me about **React, ExpressJs, Tailwind Css**  
+📫 How to reach me **arpandey.web@gmail.com**  
+⚡ Fun fact **I think I’m funny — until the compiler disagrees.**  
 
-- 👯 I’m looking to collaborate on **Frontend UI Kit for Developers**
+---
 
-- 💬 Ask me about **React, ExpressJs, Tailwind Css**
-
-- 📫 How to reach me **arpandey.web@gmail.com**
-
-- ⚡ Fun fact **I think I’m funny — until the compiler disagrees.**
-  
-
-
-
-## 🌐 Socials:
-
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arpandey5000)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpandey.web@gmail.com)
 
-# 💻 Tech Stack:
+---
 
+# 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -45,23 +42,20 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# 📊 GitHub Stats:
+---
 
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
+---
 
 ### ✍️ Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Arpan-Dey-Web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+</div>
