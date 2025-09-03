@@ -10,7 +10,7 @@
 I’m a passionate Frontend Developer from Bangladesh who loves crafting clean, responsive, and user-friendly web applications. I specialize in building pixel-perfect UIs using React, Tailwind CSS, and modern JavaScript tools, while continuously exploring new technologies to improve my craft.
 
 🔭 I’m currently working on **ParcelDrop – A Full Stack Parcel Delivery Web App**  
-🌱 I’m currently learning **Next.js**  
+🌱 I’m currently learning **Next.js & Typescript**  
 👯 I’m looking to collaborate on **Frontend UI Kit for Developers**  
 💬 Ask me about **React, ExpressJs, Tailwind Css**  
 📫 How to reach me **arpandey.web@gmail.com**  
