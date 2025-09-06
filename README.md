@@ -28,8 +28,9 @@ I’m a passionate Frontend Developer from Bangladesh who loves crafting clean, 
 ---
 # 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,firebase,git,github,vscode,figma,vercel" />
 </div>
+
 
 ---
 
