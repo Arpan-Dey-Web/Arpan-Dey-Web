@@ -14,7 +14,7 @@ I’m a passionate Frontend Developer from Bangladesh who loves crafting clean, 
 👯 I’m open to collaborating on **Frontend UI Kits & Component Libraries**  
 💬 Ask me about **React, Express.js, Tailwind CSS, or building scalable frontend apps**  
 📫 Reach me at: **arpandey.web@gmail.com**  
-⚡ Fun fact: I think I’m funny — until the compiler disagrees 😄**  
+⚡ Fun fact: I think I’m funny — until the compiler disagrees 😄
 
 </div>
 
