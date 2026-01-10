@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github-banner.png" alt="GitHub Banner" style="width: 100%;" />
+<img src="Arpan-Banner.png" alt="GitHub Banner" style="width: 100%;" />
 
 <h1>About Me</h1>
 
