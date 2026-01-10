@@ -26,10 +26,12 @@ I’m a passionate Frontend Developer from Bangladesh who loves crafting clean, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dey-web47)
 
 ---
-# 💻 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,firebase,git,github,figma,vercel" />
-</div>
+<h3 align="left">💻 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,firebase,git,github,linux,postman,figma,xd,vercel" />
+</p>
+
 
 
 ---
