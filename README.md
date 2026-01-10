@@ -7,15 +7,16 @@
 <div align="left">
 
 **Hi, I'm Arpan Dey 👋**  
-I’m a passionate Frontend Developer from Bangladesh who loves crafting clean, responsive, and user-friendly web applications. I specialize in building pixel-perfect UIs using React, Tailwind CSS, and modern JavaScript tools, while continuously exploring new technologies to improve my craft.
+I’m a **Full-Stack Developer** from Bangladesh with a strong frontend foundation and growing backend expertise. I build clean, scalable, and user-focused web applications—shipping fast, learning faster, and thinking long-term about product and team impact.
 
-🔭 I’m currently exploring **Next.js & TypeScript** through personal projects  
-🌱 Learning and experimenting with **advanced frontend patterns and UI kits**  
-👯 I’m open to collaborating on **Frontend UI Kits & Component Libraries**  
-💬 Ask me about **React, Express.js, Tailwind CSS, or building scalable frontend apps**  
+🚀 Building with **React, Next.js, TypeScript, Node.js, Express, MongoDB & PostgreSQL**  
+🎨 Known for **pixel-perfect UI**, clean code, and converting **Figma → production-ready apps**  
+🧠 Exploring **system design, scalable architecture, and leadership skills** as part of my growth toward **Lead Developer / CTO-level thinking**  
+👯 Enjoy collaborating in **startup environments** where ownership, speed, and impact matter  
+🌍 **Open to remote opportunities**, global teams, and early-stage products  
+💬 Ask me about **React, full-stack app architecture, REST APIs, or frontend performance**  
 📫 Reach me at: **arpandey.web@gmail.com**  
-⚡ Fun fact: I think I’m funny — until the compiler disagrees 😄
-
+⚡ Fun fact: I love clean commits almost as much as clean UI 😄
 </div>
 
 ---
@@ -24,9 +25,11 @@ I’m a passionate Frontend Developer from Bangladesh who loves crafting clean, 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arpandey5000)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpandey.web@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dey-web47)
+[![Twitter](https://img.shields.io/badge/Twitter(X)-000000?logo=x&logoColor=white)](https://x.com/arpandeyweb)
+
 
 ---
-<h3 align="left">💻 Tech Stack</h3>
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,firebase,git,github,linux,postman,figma,xd,vercel" />
