@@ -19,6 +19,19 @@ I’m a **Remote-ready Full-Stack Developer** from Bangladesh with a strong fron
 ⚡ Fun fact: Clean commits make me as happy as clean UI 😄
 
 </div>
+---
+
+## 🌍 Portfolio & Resume
+
+🚀 **Portfolio:**  
+👉 https://arpandeyweb.vercel.app  
+Showcasing full-stack projects, pixel-perfect UI, and production-ready web applications.
+
+📄 **Resume (PDF):**  
+👉 https://drive.google.com/your-resume-link  
+One-page resume focused on full-stack development, remote work, and startup environments.
+
+---
 
 ---
 
