@@ -2,32 +2,20 @@
   <img src="Arpan-Banner.png" alt="Arpan Dey — Full Stack Developer" style="width: 100%;" />
 </div>
 
-<div align="center">
-
-# Arpan Dey
-### Full-Stack Developer · Next.js · TypeScript · Node.js
-
-📧 [arpandey.web@gmail.com](mailto:arpandey.web@gmail.com) &nbsp;·&nbsp;
-🌐 [Portfolio](https://arpandeyweb.vercel.app) &nbsp;·&nbsp;
-📄 [Resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) &nbsp;·&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dey-web47)
-[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/arpandeyweb)
-
-</div>
 
 ---
 
 ## 🟢 Currently Available
 
-I'm immediately open to full-time roles or project-based contracts — remote, anywhere in the world.
+I'm immediately open to full-time roles or project-based contracts remote, anywhere in the world.
 
 The fastest way to reach me is **LinkedIn** or **email**. I reply quickly.
 
-- ✅ Full-time remote roles
-- ✅ Freelance / contract projects
-- 🌍 Open to EU, US, and global teams
-- 📬 **arpandey.web@gmail.com** — drop me a line, I'll get back to you fast
-- 💼 Or find me on [LinkedIn](https://www.linkedin.com/in/arpan-dey-web47) — I'm on there most of the time
+-  Full-time remote roles
+-  Freelance / contract projects
+-  Open to EU, US, and global teams
+-  **arpandey.web@gmail.com** — drop me a line, I'll get back to you fast
+-  Or find me on [LinkedIn](https://www.linkedin.com/in/arpan-dey-web47) — I'm on there most of the time
 
 > Feel free to check my [portfolio](https://arpandeyweb.vercel.app) or [resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) before reaching out.
 
