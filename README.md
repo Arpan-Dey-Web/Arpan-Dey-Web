@@ -6,10 +6,73 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Arpan 
-Full-stack web applications from schema design to deployed UI — built to be used by real people, not just demoed. I work across the JS/TS ecosystem with a focus on getting business logic right on the server, not papering over it in the UI.
+### 👋 Hi, I'm Arpan — a Full-Stack Developer from Bangladesh, building for the web.
+
+I've spent the last couple of years turning ideas into working products — from designing the database schema to shipping the final UI. My focus isn't just making things look right; it's making sure the logic underneath actually holds up under real usage.
+
+I enjoy working on the hard parts: role-based access, conflict detection, server-enforced business rules, and APIs that don't break when someone uses them the wrong way. I work primarily in the JavaScript/TypeScript ecosystem, and I'm most comfortable in environments where I can own a feature end-to-end — from how data is stored to how it's presented.
+
+<br/>
+
+📧 [arpandey.web@gmail.com](mailto:arpandey.web@gmail.com) &nbsp;·&nbsp;
+🌐 [Portfolio](https://arpandeyweb.vercel.app) &nbsp;·&nbsp;
+📄 [Resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) &nbsp;·&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dey-web47)
+[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/arpandeyweb)
 
 </div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,firebase,git,github,linux,postman,figma,xd,vercel" />
+
+</div>
+
+<br/>
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript |
+| **Frontend** | React.js, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS, Shadcn/ui, Zod |
+| **Backend** | Node.js, Express.js |
+| **Databases** | PostgreSQL (Prisma ORM), MongoDB |
+| **Auth & Payments** | JWT, Better Auth, Firebase, Stripe |
+| **Tools & Platforms** | Git, GitHub, Figma, Vercel, Postman, VS Code |
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+</div>
+
+---
+
+## 🟢 Currently Available
+
+I'm immediately open to full-time roles or project-based contracts — remote, anywhere in the world.
+
+The fastest way to reach me is **LinkedIn** or **email**. I reply quickly.
+
+- ✅ Full-time remote roles
+- ✅ Freelance / contract projects
+- 🌍 Open to EU, US, and global teams
+- 📬 **arpandey.web@gmail.com** — drop me a line, I'll get back to you fast
+- 💼 Or find me on [LinkedIn](https://www.linkedin.com/in/arpan-dey-web47) — I'm on there most of the time
+
+> Feel free to check my [portfolio](https://arpandeyweb.vercel.app) or [resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) before reaching out.
 
 ---
 
@@ -50,49 +113,8 @@ Focused on scalable architecture, advanced patterns, and system design.
 
 **Let's build something.** · [arpandey.web@gmail.com](mailto:arpandey.web@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arpan-dey-web47)
 
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=Arpan-Dey-Web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-
-<div align="center">
-
-<h3>💻 Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,firebase,git,github,linux,postman,figma,xd,vercel" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-</div>
-
----
-
-## 🟢 Currently Available
-
-I'm immediately open to full-time roles or project-based contracts — remote, anywhere in the world.
-
-The fastest way to reach me is **LinkedIn** or **email**. I reply quickly.
-
-- ✅ Full-time remote roles
-- ✅ Freelance / contract projects
-- 🌍 Open to EU, US, and global teams
-- 📬 **arpandey.web@gmail.com** — drop me a line, I'll get back to you fast
-- 💼 Or find me on [LinkedIn](https://www.linkedin.com/in/arpan-dey-web47) — I'm on there most of the time
-
-> Feel free to check my [portfolio](https://arpandeyweb.vercel.app) or [resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) before reaching out.
-
----
-
