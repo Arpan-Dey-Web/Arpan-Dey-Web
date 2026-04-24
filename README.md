@@ -13,14 +13,21 @@ A Full-Stack Developer from Bangladesh, building for the web. Over the last coup
 
 I keep a strong focus on writing clean, maintainable code that can grow with the project and the team. I try to solve real-world problems and build solutions that users actually need. I have a solid foundation in JavaScript and TypeScript, and I'm proficient with React, Next.js, Node.js, and databases like PostgreSQL and MongoDB — along with experience in auth systems, payment integrations, and deploying to platforms like Vercel.
 
+
+## Currently Learning
+
+📚 **Next Level Web Development** — Batch 6 (Nov 2025 – Jun 2026)
+Focused on scalable architecture, advanced patterns, and system design.
+
+---
 <div align="center">
 
-📧 [arpandey.web@gmail.com](mailto:arpandey.web@gmail.com) &nbsp;·&nbsp;
-🌐 [Portfolio](https://arpandeyweb.vercel.app) &nbsp;·&nbsp;
-📄 [Resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) &nbsp;·&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-dey-web47)
-[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/arpandeyweb)
-
+**Let's build something Together**
+**[arpandey.web@gmail.com](mailto:arpandey.web@gmail.com)** &nbsp;·&nbsp;
+**[Portfolio](https://arpandeyweb.vercel.app)** &nbsp;·&nbsp;
+**[Resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view)** &nbsp;·&nbsp;
+**[LinkedIn](https://www.linkedin.com/in/arpan-dey-web47)** &nbsp;·&nbsp;
+**[Twitter](https://x.com/arpandeyweb)**
 </div>
 
 ---
@@ -37,6 +44,8 @@ I'm immediately open to full-time roles or project-based contracts. The fastest 
 
 > Feel free to check my [portfolio](https://arpandeyweb.vercel.app) or [resume](https://drive.google.com/file/d/16FGIZM6QzRZP_K61xrrluJbgjxuYAIGF/view) for more details on my work and experience.
 
+
+<div align="center">
 ---
 
 ## 💻 Tech Stack
@@ -101,20 +110,5 @@ Stock validation and self-purchase prevention are enforced server-side — not j
 `React` `Node.js` `MongoDB` `Express` `Firebase` `JWT`
 
 ---
-
-## Currently Learning
-
-📚 **Next Level Web Development** — Batch 6 (Nov 2025 – Jun 2026)
-Focused on scalable architecture, advanced patterns, and system design.
-
----
-
-<div align="center">
-
-**Let's build something.** · [arpandey.web@gmail.com](mailto:arpandey.web@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arpan-dey-web47)
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Arpan-Dey-Web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
