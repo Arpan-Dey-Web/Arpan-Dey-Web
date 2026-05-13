@@ -64,7 +64,15 @@ I'm immediately open to full-time roles or project-based contracts. The fastest 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false" />
+<img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Arpan-Dey-Web&theme=tokyonight&show_icons=true" />
+
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpan-Dey-Web&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arpan-Dey-Web&theme=tokyonight&layout=compact" />
 
 </div>
 
