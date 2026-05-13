@@ -64,14 +64,14 @@ I'm immediately open to full-time roles or project-based contracts. The fastest 
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://streak-stats.demolab.com?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=Arpan-Dey-Web&theme=calm_pink&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Dey-Web&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ### ✍️ Dev Quote
 
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 </div>
