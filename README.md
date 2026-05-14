@@ -6,7 +6,7 @@
   <h2>👋 Hi, I'm Arpan</h2>
 </div>
 
-A Full-Stack Developer from Bangladesh, building for the web. Over the last couple of years I've been turning ideas into working products — from designing the database schema to shipping the final UI. My focus isn't just making things look right; it's making sure the logic underneath actually holds up under real usage.
+A Full-Stack Developer from Bangladesh, building for the web. Over the last couple of years I've been turning ideas into working products  from designing the database schema to shipping the final UI. My focus isn't just making things look right; it's making sure the logic underneath actually holds up under real usage.
 
 I keep a strong focus on writing clean, maintainable code that can grow with the project and the team. I try to solve real-world problems and build solutions that users actually need. I have a solid foundation in JavaScript and TypeScript, and I'm proficient with React, Next.js, Node.js, and databases like PostgreSQL and MongoDB — along with experience in auth systems, payment integrations, and deploying to platforms like Vercel.
 
