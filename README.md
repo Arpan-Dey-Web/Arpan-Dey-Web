@@ -53,8 +53,8 @@ I'm immediately open to full-time roles or project-based contracts. The fastest 
 |---|---|
 | **Languages** | JavaScript (ES6+), TypeScript |
 | **Frontend** | React.js, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS, Shadcn/ui, Zod |
-| **Backend** | Node.Js, Express.Js | Nest.Js
-| **Databases** | PostgreSQL (Prisma ORM), MongoDB | (Mongoose ODM)
+| **Backend** | Node.Js, Express.Js, Nest.Js | 
+| **Databases** | PostgreSQL (Prisma ORM), MongoDB, (Mongoose ODM) | 
 | **Auth & Payments** | JWT, Better Auth, Firebase, Stripe |
 | **Tools & Platforms** | Git, GitHub, Figma, Vercel, Postman, VS Code |
 
