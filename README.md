@@ -38,7 +38,7 @@ I'm immediately open to full-time roles or project-based contracts. The fastest 
 ## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,firebase,git,github,docker,linux,postman,figma,xd,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,nest,mongodb,postgres,prisma,firebase,git,github,docker,linux,postman,figma,xd,vercel" />
 </div>
 
 <br/>
