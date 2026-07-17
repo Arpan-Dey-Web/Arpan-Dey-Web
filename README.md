@@ -10,12 +10,6 @@ A Full-Stack Developer from Bangladesh, building for the web. Over the last coup
 
 I keep a strong focus on writing clean, maintainable code that can grow with the project and the team. I try to solve real-world problems and build solutions that users actually need. I have a solid foundation in JavaScript and TypeScript, and I'm proficient with React, Next.js, Node.js, and databases like PostgreSQL and MongoDB — along with experience in auth systems, payment integrations, and deploying to platforms like Vercel.
 
-## Currently Learning
-
-📚 **Next Level Web Development** — Batch 6 (Nov 2025 – Jun 2026)
-Focused on scalable architecture, advanced patterns, and system design.
-
----
 
 ## 🟢 Currently Available
 
