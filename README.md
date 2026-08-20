@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>👋 Hi, I'm Arpan</h2>
+  <h1>👋 Hi, I'm Arpan</h1>
 
   <p>
     <a href="mailto:arpandey.web@gmail.com"><img src="https://img.shields.io/badge/Email-arpandey.web%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
