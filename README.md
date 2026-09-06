@@ -18,7 +18,7 @@ A Full-Stack Developer from Bangladesh. Since early 2025 I've been turning ideas
 
 I keep a strong focus on writing clean, maintainable code that can grow with the project and the team. I try to solve real-world problems and build solutions that users actually need. I have a solid foundation in JavaScript and TypeScript, and I'm proficient with React, Next.js, Node.js, and databases like PostgreSQL and MongoDB, along with experience in auth systems, payment integrations, and deploying to platforms like Vercel.
 
-Currently working as a MERN Stack Intern at Gobaadi, building real-time features and React Native apps alongside a NestJS backend.
+Currently working as a MERN Stack Developer at Gobaadi, building real-time features and React Native apps alongside a NestJS backend.
 
 ---
 
