@@ -43,7 +43,7 @@ Currently working as a MERN Stack Developer at Gobaadi, building real-time featu
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="flex">
   <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Arpan-Dey-Web&theme=tokyonight&show_icons=true" />
   <img height="200" src="https://streak-stats.demolab.com/?user=Arpan-Dey-Web&theme=tokyonight" />
 </div>
